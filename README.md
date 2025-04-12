@@ -1,16 +1,15 @@
-## Hi there 👋
+### hey, it's clept 👋
 
-<!--
-**itsclept/itsclept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineer @ amazon  
+building little tools, weird games, and automated lives
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 featured projects
+- 🚧 *under construction*
+
+---
+
+### 💬 let's chat
+- 🌐 [itsclept.dev](#) *(soon? 👀)*
+- 🐙 [github.com/itsclept](https://github.com/itsclept)
